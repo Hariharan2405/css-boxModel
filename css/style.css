@@ -1,0 +1,12 @@
+/*  */
+div{
+	background-color:red;
+	max-width:80%;
+	padding:10px;
+	margin:30px;
+	box-sizing:border-box;
+}
+div p{
+	color:yellow;
+	
+}
